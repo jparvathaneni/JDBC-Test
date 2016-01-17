@@ -17,6 +17,13 @@
 
   <dependencies>
       <dependency>
+          <groupId>com.h2database</groupId>
+          <artifactId>h2</artifactId>
+          <version>1.4.190</version>
+      </dependency>
+
+
+      <dependency>
           <groupId>commons-logging</groupId>
           <artifactId>commons-logging</artifactId>
           <version>1.2</version>
