@@ -1,0 +1,13 @@
+*.iml
+.idea/
+/out/
+.idea_modules/
+*.iml
+*.iws
+ 
+# Mac
+.DS_Store
+ 
+# Maven
+log/
+target/
